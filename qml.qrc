@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Image/british_longhair.jpg</file>
+        <file>Image/british_shorthair.jpg</file>
+        <file>Image/exotic_shorthair.jpg</file>
+        <file>firstscreen.qml</file>
+        <file>Image/kindofcats.jpg</file>
+        <file>swipeview.qml</file>
+    </qresource>
+</RCC>
